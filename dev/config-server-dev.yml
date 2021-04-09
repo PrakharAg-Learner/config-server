@@ -1,1 +1,5 @@
-test
+microservice:
+  user-service:
+    endpoints:
+      endpoint:
+        uri: http://USER-SERVICE/api/user
